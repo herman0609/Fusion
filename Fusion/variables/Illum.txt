@@ -1,0 +1,12 @@
+classifier/Classifier/conv1/kernel:0
+classifier/Classifier/conv1/bias:0
+classifier/Classifier/conv2/kernel:0
+classifier/Classifier/conv2/bias:0
+classifier/Classifier/conv3/kernel:0
+classifier/Classifier/conv3/bias:0
+classifier/Classifier/conv4/kernel:0
+classifier/Classifier/conv4/bias:0
+classifier/Classifier/dense/kernel:0
+classifier/Classifier/dense/bias:0
+classifier/Classifier/dense_1/kernel:0
+classifier/Classifier/dense_1/bias:0
